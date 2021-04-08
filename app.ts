@@ -1,3 +1,3 @@
-import { multiplyByThree } from "./components/multiplier/multiplier"
+import { multiplyByThree } from "./components/multiplier"
 
 console.log(multiplyByThree(3))
