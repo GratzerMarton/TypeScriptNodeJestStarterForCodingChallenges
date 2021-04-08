@@ -1,5 +1,3 @@
-export function multiplyByThree(digit: number) {
+import { multiplyByThree } from "./components/multiplier/multiplier"
 
-    return digit * 3
-}
-
+console.log(multiplyByThree(3))
